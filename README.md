@@ -1,5 +1,6 @@
 # Atividade do Curso Técnico de Desenvovimento de Sistemas
-## Módulo HTML e CSS
+
+## Módulo JavaScript
 
 ## Exercício 1
 
