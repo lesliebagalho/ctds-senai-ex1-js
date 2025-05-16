@@ -11,7 +11,5 @@ console.log("A soma é:", soma);
 Use:
 let
 console.log()
-
 */
-
 
